@@ -1,2 +1,4 @@
-# Splunk_Sandbox
- A splunk sandbox provisioned in AWS for playing with things.
+# SIEM_Sandbox
+ A SIEM sandbox provisioned in AWS for playing with things.
+  - Splunk
+  - Cribl
